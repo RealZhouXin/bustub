@@ -38,7 +38,7 @@ find_package(Threads REQUIRED)
 set(BUSTUB_THIRDPARTY_LIBS
         bustub_murmur3
         duckdb_pg_query
-        fmt
+        fmt::fmt
         libfort::fort
         Threads::Threads
         )

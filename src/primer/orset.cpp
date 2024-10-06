@@ -4,6 +4,7 @@
 #include <vector>
 #include "common/exception.h"
 #include "fmt/format.h"
+#include "fmt/ranges.h"
 
 namespace bustub {
 
